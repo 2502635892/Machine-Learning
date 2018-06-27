@@ -1,0 +1,8 @@
+add file5
+file1  LLGC_SEMI_learning.m  README.md
+frank@frank:~/learnGit/Machine-Learning$ git branch
+  dev
+* master
+
+
+
